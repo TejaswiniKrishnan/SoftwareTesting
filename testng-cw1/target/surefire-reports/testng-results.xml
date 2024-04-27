@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-27T09:58:04 IST" name="Surefire suite" finished-at="2024-04-27T09:58:51 IST" duration-ms="46702">
+    <groups>
+    </groups>
+    <test started-at="2024-04-27T09:58:04 IST" name="Surefire test" finished-at="2024-04-27T09:58:51 IST" duration-ms="46702">
+      <class name="com.example.AppTest">
+        <test-method is-config="true" signature="WebSetup()[pri:0, instance:com.example.AppTest@6e75aa0d]" started-at="2024-04-27T09:58:04 IST" name="WebSetup" finished-at="2024-04-27T09:58:19 IST" duration-ms="14322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebSetup -->
+        <test-method is-config="true" signature="ClickElement()[pri:0, instance:com.example.AppTest@6e75aa0d]" started-at="2024-04-27T09:58:19 IST" name="ClickElement" finished-at="2024-04-27T09:58:20 IST" duration-ms="1299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickElement -->
+        <test-method signature="TestExecute()[pri:0, instance:com.example.AppTest@6e75aa0d]" started-at="2024-04-27T09:58:20 IST" name="TestExecute" finished-at="2024-04-27T09:58:51 IST" duration-ms="30914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestExecute -->
+        <test-method is-config="true" signature="prints()[pri:0, instance:com.example.AppTest@6e75aa0d]" started-at="2024-04-27T09:58:51 IST" name="prints" finished-at="2024-04-27T09:58:51 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prints -->
+      </class> <!-- com.example.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
